@@ -1,0 +1,17 @@
+import EnumerationGraphTheoryCanonicalLaneLean.AdmissibleClass
+import EnumerationGraphTheoryCanonicalLaneLean.BridgeLemmas
+import EnumerationGraphTheoryCanonicalLaneLean.GateLemmas
+import EnumerationGraphTheoryCanonicalLaneLean.FinalTheorem
+import EnumerationGraphTheoryCanonicalLaneLean.CayleyFormula
+import EnumerationGraphTheoryCanonicalLaneLean.ChromaticPolynomial
+import EnumerationGraphTheoryCanonicalLaneLean.CountingLemmas
+
+namespace HautevilleHouse
+namespace EnumerationGraphTheoryCanonicalLaneLean
+
+-- Root module for Enumeration Graph Theory
+
+def sourceRepository : String := "enumeration-graph-theory-canonical-lane"
+
+end EnumerationGraphTheoryCanonicalLaneLean
+end HautevilleHouse
